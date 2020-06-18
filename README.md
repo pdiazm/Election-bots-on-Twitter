@@ -1,4 +1,4 @@
-# US_Election_Bots
+# US Election Bots
 Repository for *Election-bots: A Twitter Propaganda Machine*, a research project focused on the identification and analysis of automated accounts on Twitter related to the 2020 U.S. presidential election.
 
 ## Executive Summary

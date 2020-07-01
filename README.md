@@ -11,6 +11,7 @@ While extensive efforts have been made to identify automated Twitter accounts (A
 ## Scripts
 * [Sampling Twitter](https://github.com/pdiazm/US_Election_bots/blob/master/Sampling_twitter.R)
 * [Identification of automated accounts](https://github.com/pdiazm/US_Election_bots/blob/master/Bot_tracker.py)
+* [Baseline Divergence Measures](https://github.com/pdiazm/US_Election_bots/blob/master/Baseline_Divergence.py)
 * [LDA Topic Modelling and Discursive Influence Estimates](https://github.com/pdiazm/US_Election_bots/blob/master/LDA_TopicModelling.py)
 * [**Results**](https://github.com/pdiazm/US_Election_bots/blob/master/Results_Notebook.ipynb)
 

@@ -2,7 +2,7 @@
 """
 Created on Thu May  7 19:03:14 2020
 
-@author: pauli
+@author: Paulino Diaz
 """
 #%% load libraries
 import json
